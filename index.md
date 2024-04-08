@@ -14,7 +14,10 @@ In my junior year of high school, I took my first computer science course, and p
 
 ```
     Scanner a = new Scanner(System.in);
-    System.out.println("You wake up in a strange, small room. You hear the light humming of a distant engine and you feel the whole place start moving upward.\nIt would appear you are on some sort of aircraft.\nThe room is made out a strange metallic material you don't recognize, and the only noticeable feature is a large air vent in the wall.\nIt appears to be missing 3 of its screws already. You hear someone or something approaching from the far side of the room.\nWould you like to go inspect the other side of the room (type I), or try to take the vent cover off and escape (type V)?");
+    System.out.println("You wake up in a strange, small room. You hear the light humming of a distant engine and you feel the whole place start moving upward.
+    \nIt would appear you are on some sort of aircraft.\nThe room is made out a strange metallic material you don't recognize, and the only noticeable feature
+    is a large air vent in the wall.\nIt appears to be missing 3 of its screws already. You hear someone or something approaching from the far side of the room.
+    \nWould you like to go inspect the other side of the room (type I), or try to take the vent cover off and escape (type V)?");
     String b = a.nextLine();
 ```
 
@@ -50,15 +53,15 @@ Looking to expand on that list though
 
 It's always good to set goals, and note down your acheived goals, so let's make a list of what I want to do with my life.
 
-[x] Birth
-[x] Learn to read
-[x] Presidential Fitness in 3rd Grade
-[x] Graduate High School
-[x] Go To College
-[ ] Dunk
-[ ] Graduate College
-[ ] Figure Out What I'm Gonna Do With My Life (maybe that should be before graduation)
-[ ] Do Whatever That May Be
+- [x] Birth
+- [x] Learn to read
+- [x] Presidential Fitness in 3rd Grade
+- [x] Graduate High School
+- [x] Go To College
+- [ ] Dunk
+- [ ] Graduate College
+- [ ] Figure Out What I'm Gonna Do With My Life (maybe that should be before graduation)
+- [ ] Do Whatever That May Be
 
 Alright, well that's all I've figured out so far in regards to me, so hope you enjoyed. Also, whoever ends up reading this, you should check out this previous markdown website I made
 
